@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Lee Crase</title>
-    <link href="https://leecrase-com.pages.dev/feed.xml" rel="self" />
-    <link href="https://leecrase-com.pages.dev" />
+    <link href="https://leecrase.com/feed.xml" rel="self" />
+    <link href="https://leecrase.com" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Lee Crase</name>
     </author>
-    <id>https://leecrase-com.pages.dev</id>
+    <id>https://leecrase.com</id>
 
 </feed>

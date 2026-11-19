@@ -3,10 +3,50 @@
     <title>Lee Crase</title>
     <link href="https://leecrase.com/feed.xml" rel="self" />
     <link href="https://leecrase.com" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2026-11-19T07:07:07-05:00</updated>
     <author>
         <name>Lee Crase</name>
     </author>
     <id>https://leecrase.com</id>
 
+    <entry>
+        <title>New Test Post</title>
+        <author>
+            <name>Lee Crase</name>
+        </author>
+        <link href="https://leecrase.com/new-test-post/"/>
+        <id>https://leecrase.com/new-test-post/</id>
+
+        <updated>2026-11-19T07:07:07-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Here we are again, making a new test post. I want to see the blocks &amp; whatnot, before pouring my soul into these&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Here we are again, making a new test post.
+  </p>
+
+  <p>
+    I want to see the blocks &amp; whatnot, before pouring my soul into these digital pages.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://leecrase.com/media/posts/1/KBs-2.jpeg" height="4284" width="5712" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://leecrase.com/media/posts/1/responsive/KBs-2-xs.jpeg 300w ,https://leecrase.com/media/posts/1/responsive/KBs-2-sm.jpeg 480w ,https://leecrase.com/media/posts/1/responsive/KBs-2-md.jpeg 768w ,https://leecrase.com/media/posts/1/responsive/KBs-2-lg.jpeg 1024w ,https://leecrase.com/media/posts/1/responsive/KBs-2-xl.jpeg 1360w ,https://leecrase.com/media/posts/1/responsive/KBs-2-2xl.jpeg 1600w">
+      <figcaption>Fancy sample of my myriad of Kettlebells . . . not literally, of course. </figcaption>
+    </figure>
+
+  <p>
+    Well, that's all I have.
+  </p>
+
+  <p>
+    Thanks!<br>~Lee<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

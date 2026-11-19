@@ -13,15 +13,15 @@
             "id": "https://leecrase.com/new-test-post/",
             "url": "https://leecrase.com/new-test-post/",
             "title": "New Test Post",
-            "summary": "Here we are again, making a new test post. I want to see the blocks &amp; whatnot, before pouring my soul into these&hellip;",
-            "content_html": "\n  <p>\n    Here we are again, making a new test post.\n  </p>\n\n  <p>\n    I want to see the blocks &amp; whatnot, before pouring my soul into these digital pages.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://leecrase.com/media/posts/1/KBs-2.jpeg\" height=\"4284\" width=\"5712\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://leecrase.com/media/posts/1/responsive/KBs-2-xs.jpeg 300w ,https://leecrase.com/media/posts/1/responsive/KBs-2-sm.jpeg 480w ,https://leecrase.com/media/posts/1/responsive/KBs-2-md.jpeg 768w ,https://leecrase.com/media/posts/1/responsive/KBs-2-lg.jpeg 1024w ,https://leecrase.com/media/posts/1/responsive/KBs-2-xl.jpeg 1360w ,https://leecrase.com/media/posts/1/responsive/KBs-2-2xl.jpeg 1600w\">\n      <figcaption>Fancy sample of my myriad of Kettlebells . . . not literally, of course. </figcaption>\n    </figure>\n\n  <p>\n    Well, that's all I have.\n  </p>\n\n  <p>\n    Thanks!<br>~Lee<br>\n  </p>",
+            "summary": "Here we are again, making a new test post. (2x trying) I want to see the blocks &amp; whatnot, before pouring my soul&hellip;",
+            "content_html": "\n  <p>\n    Here we are again, making a new test post. (2x trying)\n  </p>\n\n  <p>\n    I want to see the blocks &amp; whatnot, before pouring my soul into these digital pages.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://leecrase.com/media/posts/1/KBs-2.jpeg\" height=\"4284\" width=\"5712\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://leecrase.com/media/posts/1/responsive/KBs-2-xs.jpeg 300w ,https://leecrase.com/media/posts/1/responsive/KBs-2-sm.jpeg 480w ,https://leecrase.com/media/posts/1/responsive/KBs-2-md.jpeg 768w ,https://leecrase.com/media/posts/1/responsive/KBs-2-lg.jpeg 1024w ,https://leecrase.com/media/posts/1/responsive/KBs-2-xl.jpeg 1360w ,https://leecrase.com/media/posts/1/responsive/KBs-2-2xl.jpeg 1600w\">\n      <figcaption>Fancy sample of my myriad of Kettlebells . . . not literally, of course. </figcaption>\n    </figure>\n\n  <p>\n    Well, that's all I have.\n  </p>\n\n  <p>\n    Thanks!<br>~Lee<br>\n  </p>",
             "author": {
                 "name": "Lee Crase"
             },
             "tags": [
             ],
             "date_published": "2026-11-19T07:07:07-05:00",
-            "date_modified": "2026-11-19T07:07:07-05:00"
+            "date_modified": "2026-11-19T07:15:49-05:00"
         }
     ]
 }
